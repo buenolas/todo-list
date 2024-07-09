@@ -31,6 +31,8 @@ To set up the project locally, follow these steps:
 
 3. **Open `index.html` in your preferred browser**.
 
+Or you can visit the website clicking [here](https://buenolas.github.io/todo-list/)
+
 ## Usage
 - **Add Task**: Type your task in the input field and press Enter to add it to the list.
 - **Remove Task**: Click the "X" button next to a task to remove it.
